@@ -1,4 +1,4 @@
-h1 {font-weight: normal;
+.title {font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
@@ -9,7 +9,7 @@ html { background-color: black;
        text-align: center;
 
 }
-.link { color: Aquamarine;
+a { color: Aquamarine;
     font-size: 16px;
     text-align: center;
 }
